@@ -1,0 +1,8 @@
+C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\bin\Debug\netcoreapp2.0\StudentRegistry.deps.json
+C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\bin\Debug\netcoreapp2.0\StudentRegistry.runtimeconfig.json
+C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\bin\Debug\netcoreapp2.0\StudentRegistry.runtimeconfig.dev.json
+C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\bin\Debug\netcoreapp2.0\StudentRegistry.dll
+C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.0\StudentRegistry.csprojResolveAssemblyReference.cache
+C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.0\StudentRegistry.csproj.CoreCompileInputs.cache
+C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.0\StudentRegistry.AssemblyInfoInputs.cache
+C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.0\StudentRegistry.AssemblyInfo.cs
