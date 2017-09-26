@@ -11,5 +11,10 @@ namespace StudentRegistry.Controllers
         {
             return $"{name} is a {age} year old student in a {course} course at Code Fellows.";
         }
+
+        public string Error()
+        {
+            return "Oh noes! An 3rr04!!!!";
+        }
     }
 }
