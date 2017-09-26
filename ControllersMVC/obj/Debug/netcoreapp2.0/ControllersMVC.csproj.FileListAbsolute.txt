@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\Lab11-Controllers\ControllersMVC\bin\Debug\netcoreapp2.0\ControllersMVC.deps.json
+C:\Users\acohr\source\repos\Lab11-Controllers\ControllersMVC\bin\Debug\netcoreapp2.0\ControllersMVC.runtimeconfig.json
+C:\Users\acohr\source\repos\Lab11-Controllers\ControllersMVC\bin\Debug\netcoreapp2.0\ControllersMVC.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\Lab11-Controllers\ControllersMVC\bin\Debug\netcoreapp2.0\ControllersMVC.dll
+C:\Users\acohr\source\repos\Lab11-Controllers\ControllersMVC\obj\Debug\netcoreapp2.0\ControllersMVC.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\Lab11-Controllers\ControllersMVC\obj\Debug\netcoreapp2.0\ControllersMVC.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\Lab11-Controllers\ControllersMVC\obj\Debug\netcoreapp2.0\ControllersMVC.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\Lab11-Controllers\ControllersMVC\obj\Debug\netcoreapp2.0\ControllersMVC.AssemblyInfo.cs
+C:\Users\acohr\source\repos\Lab11-Controllers\ControllersMVC\bin\Debug\netcoreapp2.0\ControllersMVC.pdb
+C:\Users\acohr\source\repos\Lab11-Controllers\ControllersMVC\obj\Debug\netcoreapp2.0\ControllersMVC.dll
+C:\Users\acohr\source\repos\Lab11-Controllers\ControllersMVC\obj\Debug\netcoreapp2.0\ControllersMVC.pdb
