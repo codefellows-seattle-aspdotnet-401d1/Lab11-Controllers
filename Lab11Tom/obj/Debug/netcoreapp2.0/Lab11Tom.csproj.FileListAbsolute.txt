@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\Lab11-Controllers\Lab11Tom\bin\Debug\netcoreapp2.0\Lab11Tom.deps.json
+C:\Users\Tom\source\repos\Lab11-Controllers\Lab11Tom\bin\Debug\netcoreapp2.0\Lab11Tom.runtimeconfig.json
+C:\Users\Tom\source\repos\Lab11-Controllers\Lab11Tom\bin\Debug\netcoreapp2.0\Lab11Tom.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\Lab11-Controllers\Lab11Tom\bin\Debug\netcoreapp2.0\Lab11Tom.dll
+C:\Users\Tom\source\repos\Lab11-Controllers\Lab11Tom\obj\Debug\netcoreapp2.0\Lab11Tom.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Lab11-Controllers\Lab11Tom\obj\Debug\netcoreapp2.0\Lab11Tom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Lab11-Controllers\Lab11Tom\obj\Debug\netcoreapp2.0\Lab11Tom.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\Lab11-Controllers\Lab11Tom\obj\Debug\netcoreapp2.0\Lab11Tom.AssemblyInfo.cs
+C:\Users\Tom\source\repos\Lab11-Controllers\Lab11Tom\bin\Debug\netcoreapp2.0\Lab11Tom.pdb
+C:\Users\Tom\source\repos\Lab11-Controllers\Lab11Tom\obj\Debug\netcoreapp2.0\Lab11Tom.dll
+C:\Users\Tom\source\repos\Lab11-Controllers\Lab11Tom\obj\Debug\netcoreapp2.0\Lab11Tom.pdb
