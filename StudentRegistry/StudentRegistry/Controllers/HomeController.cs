@@ -12,5 +12,10 @@ namespace StudentRegistry.Controllers
         {
             return "Welcome to the Student Registry!";
         }
+
+        public string Secret()
+        {
+            return "You've found the secret route! Congratulations.";
+        }
     }
 }
