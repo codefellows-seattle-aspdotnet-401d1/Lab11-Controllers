@@ -25,6 +25,10 @@ namespace StudentRegistry
             {
                 app.UseDeveloperExceptionPage();
             }
+            else
+            {
+                app.UseExceptionHandler("/Error/Error");
+            }
 
             app.UseMvc(route => {
                 route.MapRoute(
