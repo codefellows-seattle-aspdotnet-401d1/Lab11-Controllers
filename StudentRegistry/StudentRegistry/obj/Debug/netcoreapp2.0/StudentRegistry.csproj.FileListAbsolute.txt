@@ -6,3 +6,6 @@ C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\ob
 C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.0\StudentRegistry.csproj.CoreCompileInputs.cache
 C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.0\StudentRegistry.AssemblyInfoInputs.cache
 C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.0\StudentRegistry.AssemblyInfo.cs
+C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\bin\Debug\netcoreapp2.0\StudentRegistry.pdb
+C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.0\StudentRegistry.dll
+C:\Users\akure\Source\Repos\Lab11-Controllers\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.0\StudentRegistry.pdb
