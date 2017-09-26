@@ -40,10 +40,10 @@ there is no need to create views or models just yet.
 
 ## ReadMe
 - Your readme should include the following information:
-	- How long did it take you to complete this assignment?
-	- What did you struggle with? Why? How did you solve?
-	- What did you learn during this assignment?
-    - What resources did you utilize for this assingment?
+	- How long did it take you to complete this assignment? 1 hour
+	- What did you struggle with? Why? How did you solve? I am having trouble viewing my RegisterStudents. It works if I used the custom routing called Registration but doesn't work if I enter /Students/Register into the browser.
+	- What did you learn during this assignment? I am learning to get more comfortable with building controllers.
+    - What resources did you utilize for this assingment? the video of yesterday's demo & classmates' help
 
 ## Rubric
 - 2pts: Application runs without any errors
