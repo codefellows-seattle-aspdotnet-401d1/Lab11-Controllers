@@ -18,19 +18,15 @@ namespace lab11_brian.Controllers
         [Route("Student")]
         public string Register(string studentName)
         {
-            studentList.Add(studentName);
+            // Couldn't get defualt path to work. Updarte this path for your computer...sorry got reading to do
+            string filePath = @"C:\projects\401d1\Labs\lab11_brian\lab11_brian\lab11_brian\Controllers\students.txt";
+            using (StreamWriter sw = System.IO.File.AppendText(filePath))
+            {
+                sw.WriteLine(studentName);
+            }
             return $" Ahhh yes ... {studentName} will be placed in {SortedHouse<houses>()}!!!";
         }
-        static void CreateFile(string filePath)
-        {
-            using (FileStream fs = System.IO.File.Create(filePath))
-            {
-                Byte[] info = new UTF8Encoding().GetBytes("");
-                fs.Write(info, 0, info.Length);
-            }
-        }
 
-        private List<string> studentList = new List<string>();
         private T SortedHouse<T>()
         {
             T[] houses = (T[])Enum.GetValues(typeof(T));

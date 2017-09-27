@@ -23,7 +23,7 @@ namespace lab11_brian
             }
             else
             {
-                app.UseExceptionHandler("/Error/Support");
+                app.UseExceptionHandler("Error/Support");
             }
 
             app.UseMvc(route =>
