@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Lab11-Controllers\Lab11George\Lab11George\bin\Debug\netcoreapp2.0\Lab11George.deps.json
+C:\Users\georg\source\repos\Lab11-Controllers\Lab11George\Lab11George\bin\Debug\netcoreapp2.0\Lab11George.runtimeconfig.json
+C:\Users\georg\source\repos\Lab11-Controllers\Lab11George\Lab11George\bin\Debug\netcoreapp2.0\Lab11George.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Lab11-Controllers\Lab11George\Lab11George\bin\Debug\netcoreapp2.0\Lab11George.dll
+C:\Users\georg\source\repos\Lab11-Controllers\Lab11George\Lab11George\obj\Debug\netcoreapp2.0\Lab11George.csprojResolveAssemblyReference.cache
+C:\Users\georg\source\repos\Lab11-Controllers\Lab11George\Lab11George\obj\Debug\netcoreapp2.0\Lab11George.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Lab11-Controllers\Lab11George\Lab11George\obj\Debug\netcoreapp2.0\Lab11George.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Lab11-Controllers\Lab11George\Lab11George\obj\Debug\netcoreapp2.0\Lab11George.AssemblyInfo.cs
+C:\Users\georg\source\repos\Lab11-Controllers\Lab11George\Lab11George\bin\Debug\netcoreapp2.0\Lab11George.pdb
+C:\Users\georg\source\repos\Lab11-Controllers\Lab11George\Lab11George\obj\Debug\netcoreapp2.0\Lab11George.dll
+C:\Users\georg\source\repos\Lab11-Controllers\Lab11George\Lab11George\obj\Debug\netcoreapp2.0\Lab11George.pdb
