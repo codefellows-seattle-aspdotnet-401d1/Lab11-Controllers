@@ -9,29 +9,43 @@ namespace Lab11George.Controllers
 {
     public class StudentsController
     {
-
         public string Index() => "This is the student controller.";
-
-        //[Route("AddStudent")]
+        [Route("AddStudent")]
         // This is called model binding
         public string Student(string name, int age)
         {
-            if (name != "" && age != 0)
+            if (name != "" || age != 0)
             {
-
+                return "No movie input";
             }
-            return $"Student name is {name} and age is {age}.";
-
-
+            else
+            {
+                try
+                {
+                    if (!File.Exists(filePath))
+                    {
+                        CreateFile();
+                    }
+                    else
+                    {
+                        AppendFile(name, age);
+                    }
+                }
+                catch (DirectoryNotFoundException)
+                {
+                    Console.WriteLine("The Directory you suggested does not exist");
+                }
+                return $"Student name is {name} and age is {age}.";
+            }
+        }
+        [Route("ShowStudents")]
+        public string[] Read()
+        {
+            return ReadFile();
         }
 
- 
-    }
-
-    /*public class StudentManager
-    {
+        // file I/O code
         private static string filePath = @"studentFile.txt";
-
         // create the file if it doesn't exist
         private static void CreateFile()
         {
@@ -40,18 +54,16 @@ namespace Lab11George.Controllers
                 sw.WriteLine("The Professional 1994");
             }
         }
-
         // add a word to the file C in CRUD
-        private static void AppendFile(string filePath, string newWord)
+        private static void AppendFile(string name, int year)
         {
             using (StreamWriter sw = File.AppendText(filePath))
             {
-                sw.WriteLine(newWord);
+                sw.WriteLine($"{name} {year}");
             }
         }
-
         // read the file R in CRUD
-        private static string[] ReadFile(string filePath)
+        private static string[] ReadFile()
         {
             using (StreamReader sr = File.OpenText(filePath))
             {
@@ -59,6 +71,6 @@ namespace Lab11George.Controllers
                 return words;
             }
         }
-    }*/
+    }
 }
 //  2 actions

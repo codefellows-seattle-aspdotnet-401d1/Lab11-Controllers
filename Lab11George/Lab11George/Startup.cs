@@ -29,7 +29,6 @@ namespace Lab11George
             {
                 app.UseExceptionHandler("/Error");
             }
-
             //added MVC to configuration
             app.UseMvc(route =>
             {
@@ -38,7 +37,7 @@ namespace Lab11George
                     template: "{Controller=Home}/{action=Index}/{id?}"
                     );
             });
-
+            // 
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello World!");
